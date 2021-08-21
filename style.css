@@ -1,0 +1,18 @@
+.image img{
+    height: 500px;
+    width: 500px;
+}
+.gh:hover{
+    background-color: rgb(12, 12, 12);
+    color: white;
+}
+.hg:hover{
+    background-color: rgb(219, 161, 219);
+}
+hr.style1 {
+	border-top: 3px double rgb(3, 0, 0);
+}
+hr.style2 {
+	background-color: #fff;
+	border-top: 2px dashed rgb(7, 7, 7);
+}
