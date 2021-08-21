@@ -7,7 +7,8 @@
     color: white;
 }
 .hg:hover{
-    background-color: rgb(219, 161, 219);
+    background-color: rgb(8, 8, 8);
+    color: rgb(247, 244, 244);
 }
 hr.style1 {
 	border-top: 3px double rgb(3, 0, 0);
